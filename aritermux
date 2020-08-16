@@ -8,14 +8,14 @@ clear
 printf "\e[1;92m########################################\e[0m\n"
 printf "\e[1;92m#   this tools creat by ariahmed       # \e[0m\n"           
 printf "\e[1;92m#       follow my instagram            # \e[0m\n"
-printf "\e[1;91m#           @vx.4aryi                     # \e[0m\n"
+printf "\e[1;91m#           @vx.4ryi                     # \e[0m\n"
 printf "\e[1;92m#                                      # \e[0m\n"
 printf "\e[1;92m######################################## \e[0m\n"
 sleep 3
 pkg update -y
 clear
 pkg upgrade -y
-xdg-open https://www.instagram.com/vx.4aryi
+xdg-open https://www.instagram.com/vx.4ryi
 
 sleep 10
 
@@ -43,7 +43,7 @@ printf "\e[1;92m########################################\e[0m\n"
 sleep 1
 clear
 printf "\e[1;92m########################################\e[0m\n"
-printf "\e[1;91m           kakshell ...../ \e[0m\n "
+printf "\e[1;91m           ariahmed ...../ \e[0m\n "
 printf "\e[1;92m########################################\e[0m\n"
 sleep 1
 clear
@@ -193,49 +193,49 @@ cd ..
 cd usr/etc
 mkdir arim
 cd arim
-echo slaw bram am termux to la layn ariahmed chakrawa bo shty zyatr follow instakam bkan  @vx.4aryi >arim.txt
+echo slaw bram am termux to la layn ariahmed chakrawa bo shty zyatr follow instakam bkan  @vx.4ryi >arim.txt
 cd $HOME
 cd /sdcard
 mkdir arim
 cd arim 
-echo slaw bram am termux to la layn ariahmed chakrawa bo shty zyatr follow instakam bkan  @vx.4aryi >arim.txt
+echo slaw bram am termux to la layn ariahmed chakrawa bo shty zyatr follow instakam bkan  @vx.4ryi >arim.txt
 cd $HOME
 pkg install sl -y
 sleep 1
 clear
 printf "\e[1;92m##############################################################\e[0m\n"
-printf "\e[1;91m   xwat lagal bram tawaw bw followm bkan @vx.4aryi insta    \e[0m\n"
+printf "\e[1;91m   xwat lagal bram tawaw bw followm bkan @vx.4ryi insta    \e[0m\n"
 printf "\e[1;92m#############################################################\e[0m\n"
 sleep 1
 clear
 printf "\e[1;92m########################################\e[0m\n"
-printf "\e[1;91m  xwat lagal bram tawaw bw followm bkan @vx.4aryi insta  \e[0m\n"
+printf "\e[1;91m  xwat lagal bram tawaw bw followm bkan @vx.4ryi insta  \e[0m\n"
 printf "\e[1;92m########################################\e[0m\n"
 sleep 1
 clear
 printf "\e[1;92m########################################\e[0m\n"
-printf "\e[1;91m  xwat lagal bram tawaw bw followm bkan @vx.4aryi insta  \e[0m\n"
+printf "\e[1;91m  xwat lagal bram tawaw bw followm bkan @vx.4ryi insta  \e[0m\n"
 printf "\e[1;92m########################################\e[0m\n"
 sleep 1
 clear
 printf "\e[1;92m########################################\e[0m\n"
-printf "\e[1;91m  xwat lagal bram tawaw bw followm bkan @vx.4aryi insta  \e[0m\n"
+printf "\e[1;91m  xwat lagal bram tawaw bw followm bkan @vx.4ryi insta  \e[0m\n"
 printf "\e[1;92m########################################\e[0m\n"
 sleep 1
 clear
 printf "\e[1;92m####################################\e[0m\n"
-printf "\e[1;91m   xwat lagal bram tawaw bw followm bkan @vx.4aryi insta   \e[0m\n"
+printf "\e[1;91m   xwat lagal bram tawaw bw followm bkan @vx.4ryi insta   \e[0m\n"
 printf "\e[1;92m########################################\e[0m\n"
 sleep 1
 clear
 printf "\e[1;92m########################################\e[0m\n"
 
-printf "\e[1;91m  xwat lagal bram tawaw bw followm bkan @vx.4aryi insta \e[0m\n"
+printf "\e[1;91m  xwat lagal bram tawaw bw followm bkan @vx.4ryi insta \e[0m\n"
 printf "\e[1;92m########################################\e[0m\n"
 clear
 sleep 1
 printf "\e[1;92m########################################\e[0m\n"
-printf "\e[1;91m   xwat lagal bram tawaw bw followm bkan @vx.4aryi insta  \e[0m\n"
+printf "\e[1;91m   xwat lagal bram tawaw bw followm bkan @vx.4ryi insta  \e[0m\n"
 printf "\e[1;92m########################################\e[0m\n"
 sleep 5
 pkg install tor -y
@@ -249,9 +249,9 @@ pkg install php -y
 printf "\e[1;94m########################################\e[0m\n"
 printf "\e[1;94m#   this tools Great by ariahmed       # \e[0m\n"           
 printf "\e[1;4m#       follow my instagram            # \e[0m\n"
-printf "\e[1;94m#           @vx.4aryi                     # \e[0m\n"
+printf "\e[1;94m#           @vx.4ryi                     # \e[0m\n"
 printf "\e[1;94m#                                      # \e[0m\n"
 printf "\e[1;94m######################################## \e[0m\n"
 sleep 3
 figlet good bye 
-printf "\e[1;92m instagram  @vx.4aryi \e[0m\n"\
+printf "\e[1;92m instagram  @vx.4ryi \e[0m\n"\
