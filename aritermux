@@ -247,7 +247,7 @@ sleep 10
 
 pkg install php -y
 printf "\e[1;94m########################################\e[0m\n"
-printf "\e[1;94m#   this tools Great by kakshell       # \e[0m\n"           
+printf "\e[1;94m#   this tools Great by ariahmed       # \e[0m\n"           
 printf "\e[1;4m#       follow my instagram            # \e[0m\n"
 printf "\e[1;94m#           @vx.4aryi                     # \e[0m\n"
 printf "\e[1;94m#                                      # \e[0m\n"
