@@ -242,7 +242,7 @@ pkg install tor -y
 cd $HOME
 
 figlet snapchat
-xdg-open https://www.snapchat.com/add/ariahmed121
+xdg-open https://www.snapchat.com/add/vx.4ryi
 sleep 10
 
 pkg install php -y
